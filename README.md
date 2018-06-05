@@ -1,4 +1,4 @@
-# snapshotalyzer-30000
+# AWS EC2 SnapshotAlyzer
 Demo project to manage AWS EC2 instance snapshots
 
 ## About
