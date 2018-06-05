@@ -2,7 +2,6 @@ import boto3
 import botocore
 import click
 
-
 session = boto3.Session(profile_name='shotty')
 ec2 = session.resource('ec2')
 
